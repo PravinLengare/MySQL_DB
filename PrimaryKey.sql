@@ -1,0 +1,3 @@
+USE my_db;
+ALTER TABLE users AUTO_INCREMENT = 100;
+SELECT * FROM users;
